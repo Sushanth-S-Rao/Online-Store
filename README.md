@@ -1,15 +1,11 @@
-# Online-Shopping-System-DBMS
+# Online Store
 
+## Description
+Website that displays the catalogue of products to the user to shop. Database is used to store the informatics about the products and it is updated accordingly when user shop
 
-ONLINE SHOPPING SYSTEM
+## Technology Stack
 
-
-- Open XAMPP
-- Start Apache and MySQL
-- The source files to be in htdocs folder in XAMPP
-- Open localhost/phpmyadmin
-- Create new table named onlineshop
-- Import the SQL file
-- Open http://localhost/online-shopping-system
-- Application can be used
-- Admin details are admin@gmail.com and 123456789
+- FrontEnd:   HTML, CSS, JavaScript
+- BackEnd:    PHP
+- Database:   MySQL
+- Hosting Tools:   phpmyadmin, apache server
